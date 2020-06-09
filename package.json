@@ -58,7 +58,7 @@
     "moment-duration-format": "^2.2.2",
     "moment-timezone": "0.5.28",
     "node-bourbon": "^4.2.3",
-    "node-sass": "^4.9.2",
+    "sass": "^1.26.8",
     "painterro": "^0.2.65",
     "printj": "^1.2.1",
     "raw-loader": "^0.5.1",
